@@ -18,3 +18,11 @@ This project focuses on analyzing user feedback for ChatGPT. By processing a lar
 
 ## 📊 Findings
 The final visualization provides a clear breakdown of user sentiments, helping to identify common trends in user experience.
+
+## 📂 Dataset Information
+Due to GitHub's file size restrictions (25MB for browser uploads), the original 130MB dataset (`chatgpt_reviews.csv`) is not included in this repository. 
+
+**How to get the data:**
+* You can download the full dataset from [https://www.kaggle.com/datasets/ashishkumarak/chatgpt-reviews-daily-updated].
+* Place the CSV file in the root directory of this project before running the notebook.
+* Note: The notebook is configured to process a sample of 5,000 rows for demonstration purposes.
